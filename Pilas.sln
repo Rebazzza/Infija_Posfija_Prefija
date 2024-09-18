@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pilas", "Pilas\Pilas.csproj", "{8D9D948B-3A03-4C3F-9B30-0146EFED4D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{37F18CC1-6698-4E6D-AB20-1B5ADC0F096C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D9D948B-3A03-4C3F-9B30-0146EFED4D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9D948B-3A03-4C3F-9B30-0146EFED4D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9D948B-3A03-4C3F-9B30-0146EFED4D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9D948B-3A03-4C3F-9B30-0146EFED4D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F18CC1-6698-4E6D-AB20-1B5ADC0F096C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F18CC1-6698-4E6D-AB20-1B5ADC0F096C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F18CC1-6698-4E6D-AB20-1B5ADC0F096C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F18CC1-6698-4E6D-AB20-1B5ADC0F096C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD18F31E-84AB-458F-9A8C-112F04EDC00B}
+	EndGlobalSection
+EndGlobal
